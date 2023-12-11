@@ -35,15 +35,11 @@
 
 .navbar-nav li,
 a {
-    color: #ffffffca;
+    color: #fff;
     font-family: 'Inter Regular';
     font-size: 18px;
     text-decoration: none;
     transition: color 0.3s;
-}
-
-.navbar-nav a:hover {
-    color: #fff;
 }
 
 #current-page {
